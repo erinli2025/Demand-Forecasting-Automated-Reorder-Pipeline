@@ -18,7 +18,9 @@ Retail and e-commerce warehouses face a continuous planning problem: order too e
 
 ## Dataset
 
-**DataCo Supply Chain Dataset** — 180,519 order lines across 118 SKUs, January 2015 to January 2018.
+**DataCo Supply Chain Dataset** — 180,519 order lines across 118 SKUs, January 2015 to January 2018. 
+
+Link: https://data.mendeley.com/datasets/8gx2fvg2k6/5
 
 The raw data contains order-level rows. The first step in both notebooks is aggregating these into a weekly time series per SKU — reducing 180k rows to ~1,300 rows of clean weekly demand signals.
 
